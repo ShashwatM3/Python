@@ -6,5 +6,6 @@ The codes for the following programs shall be available :-
 1. Password Generator
 2. A simple Math Game
 3. Link Shortener
-4. Url Generator
+4. QR Code Generator
 5. Names Generator
+6. StopWatch 
