@@ -7,3 +7,4 @@ The codes for the following programs shall be available :-
 2. A simple Math Game
 3. Link Shortener
 4. Url Generator
+5. Names Generator
