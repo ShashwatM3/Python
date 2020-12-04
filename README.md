@@ -1,6 +1,6 @@
 # SmallPrograms
 
-<h1> This Repository contains all my codes for short programs I have created. </h1>
+This Repository contains all my codes for short programs I have created.
 
 The codes for the following programs shall be available :-
 1. Password Generator
