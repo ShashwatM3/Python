@@ -1,4 +1,4 @@
-# SmallPrograms
+# Python
 
 This Repository contains all my codes for short programs I have created.
 
